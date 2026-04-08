@@ -46,7 +46,7 @@ GTR.typeCar();
 console.log("-------------------");
 
 //Park
-const Bolide = new Bugatti("Bolide", "Track");
+const Bolide = new Bugatti("Bolide", "Track Car");
 Bolide.callModel();
 
 console.log("-------------------");
