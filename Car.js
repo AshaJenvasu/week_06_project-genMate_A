@@ -5,7 +5,7 @@ class Car {
   }
 
   typeCar() {
-    console.log(`${this.name} is ${this.type}`);
+      console.log(`${this.name} is ${this.type}`);
   }
 }
 module.exports = Car;
